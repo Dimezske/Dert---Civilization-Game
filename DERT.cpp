@@ -22,6 +22,7 @@ char WaitSelect;
  int MUSHROOM_COUNT;
  int BEETLE_COUNT;
  int RABBIT_COUNT;
+
 class BOOLS {
     public:
         void hasDIGSTICK(){
